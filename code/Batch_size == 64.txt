@@ -1,0 +1,41 @@
+Total training examples: 24773
+Total validation examples: 2517
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:40: UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.
+Loss at iteration 10 : 0.3738815188407898
+Loss at iteration 20 : 0.44333142042160034
+Loss at iteration 30 : 0.40435266494750977
+Loss at iteration 40 : 0.38352057337760925
+Loss at iteration 50 : 0.4009566903114319
+Loss at iteration 60 : 0.3569543659687042
+Loss at iteration 70 : 0.38280189037323
+Loss at iteration 80 : 0.36077451705932617
+Loss at iteration 90 : 0.3600321412086487
+Loss at iteration 100 : 0.3811172842979431
+Loss at iteration 110 : 0.35920900106430054
+Loss at iteration 120 : 0.358908087015152
+Loss at iteration 130 : 0.3547448217868805
+Loss at iteration 140 : 0.3516480028629303
+Loss at iteration 150 : 0.3544163107872009
+Loss at iteration 160 : 0.3379993736743927
+Loss at iteration 170 : 0.3310714066028595
+Loss at iteration 180 : 0.34115520119667053
+Loss at iteration 190 : 0.3275972902774811
+Loss at iteration 200 : 0.34881627559661865
+Loss at iteration 210 : 0.3161688446998596
+Loss at iteration 220 : 0.29858845472335815
+Loss at iteration 230 : 0.30306872725486755
+Loss at iteration 240 : 0.302827924489975
+Loss at iteration 250 : 0.286297082901001
+Loss at iteration 260 : 0.28186333179473877
+Loss at iteration 270 : 0.29733386635780334
+Loss at iteration 280 : 0.2785428464412689
+Loss at iteration 290 : 0.27627032995224
+Loss at iteration 300 : 0.25426894426345825
+Loss at iteration 310 : 0.2523948848247528
+Loss at iteration 320 : 0.2438003271818161
+Loss at iteration 330 : 0.24982553720474243
+Loss at iteration 340 : 0.24591223895549774
+Loss at iteration 350 : 0.224495992064476
+Loss at iteration 360 : 0.23149310052394867
+Loss at iteration 370 : 0.23583699762821198
+Loss at iteration 380 : 0.21531905233860016
